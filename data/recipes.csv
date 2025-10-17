@@ -1,0 +1,61 @@
+dish_id,dish_name,region,category,heat,image_url,spices,wiki_url
+1,Chicken Biryani,South,Rice,Medium,https://upload.wikimedia.org/wikipedia/commons/8/8a/Chicken_Biryani.jpg,"[""Cumin"",""Cardamom"",""Clove"",""Bay"",""Kashmiri Chili""]",https://en.wikipedia.org/wiki/Biryani
+2,Hyderabadi Biryani,South,Rice,Hot,https://upload.wikimedia.org/wikipedia/commons/b/bf/Hyderabadi_Biryani.jpg,"[""Cumin"",""Cardamom"",""Clove"",""Bay"",""Saffron"",""Kashmiri Chili""]",https://en.wikipedia.org/wiki/Hyderabadi_biryani
+3,Veg Biryani,North,Rice,Mild,,"[""Cumin"",""Coriander"",""Cardamom"",""Clove"",""Bay"",""Saffron""]",https://en.wikipedia.org/wiki/Biryani
+4,Palak Paneer,North,Curry,Mild,https://upload.wikimedia.org/wikipedia/commons/1/12/Palak_Paneer.jpg,"[""Cumin"",""Turmeric"",""Garam Masala"",""Garlic"",""Ginger""]",https://en.wikipedia.org/wiki/Palak_paneer
+5,Paneer Butter Masala,North,Curry,Mild,,"[""Cumin"",""Coriander"",""Garam Masala"",""Kasuri Methi"",""Butter"",""Garlic"",""Ginger""]",https://en.wikipedia.org/wiki/Paneer_makhani
+6,Chana Masala,North,Curry,Medium,https://upload.wikimedia.org/wikipedia/commons/5/5b/Chana_masala.jpg,"[""Cumin"",""Coriander"",""Turmeric"",""Garam Masala"",""Dry Mango Powder"",""Garlic"",""Ginger""]",https://en.wikipedia.org/wiki/Chana_masala
+7,Rajma,North,Curry,Mild,,"[""Cumin"",""Coriander"",""Turmeric"",""Garam Masala"",""Garlic"",""Ginger""]",https://en.wikipedia.org/wiki/Rajma
+8,Dal Tadka,North,Curry,Mild,https://upload.wikimedia.org/wikipedia/commons/4/4f/Dal_Tadka.jpg,"[""Cumin"",""Turmeric"",""Asafoetida"",""Ghee"",""Garlic""]",https://en.wikipedia.org/wiki/Dal
+9,Dal Makhani,North,Curry,Mild,,"[""Cumin"",""Garam Masala"",""Butter"",""Cream"",""Garlic"",""Ginger""]",https://en.wikipedia.org/wiki/Dal_makhani
+10,Butter Chicken,North,Curry,Medium,,"[""Garam Masala"",""Kashmiri Chili"",""Kasuri Methi"",""Garlic"",""Ginger"",""Butter"",""Cream""]",https://en.wikipedia.org/wiki/Butter_chicken
+11,Tandoori Chicken,North,Grill,Hot,https://upload.wikimedia.org/wikipedia/commons/a/a9/Tandoori_chicken.jpg,"[""Kashmiri Chili"",""Garam Masala"",""Cumin"",""Garlic"",""Ginger"",""Lemon Juice""]",https://en.wikipedia.org/wiki/Tandoori_chicken
+12,Chicken Tikka,North,Grill,Hot,,"[""Garam Masala"",""Cumin"",""Coriander"",""Kashmiri Chili"",""Garlic"",""Ginger"",""Lemon Juice""]",https://en.wikipedia.org/wiki/Chicken_tikka
+13,Rogan Josh,North,Curry,Medium,https://upload.wikimedia.org/wikipedia/commons/9/90/Rogan_josh.jpg,"[""Kashmiri Chili"",""Cumin"",""Cardamom"",""Clove"",""Cinnamon""]",https://en.wikipedia.org/wiki/Rogan_josh
+14,Korma,North,Curry,Mild,,"[""Cardamom"",""Clove"",""Cinnamon"",""Cumin"",""Coriander"",""Cashew"",""Cream""]",https://en.wikipedia.org/wiki/Korma
+15,Vindaloo,West,Curry,Hot,,"[""Red Chili Powder"",""Cumin"",""Coriander"",""Garlic"",""Vinegar"",""Mustard Seed""]",https://en.wikipedia.org/wiki/Vindaloo
+16,Goan Fish Curry,West,Curry,Medium,,"[""Coriander"",""Cumin"",""Turmeric"",""Coconut"",""Tamarind"",""Green Chili""]",https://en.wikipedia.org/wiki/Goan_cuisine
+17,Pork Sorpotel,West,Curry,Hot,,"[""Vinegar"",""Red Chili Powder"",""Cumin"",""Clove"",""Cinnamon"",""Garlic"",""Ginger""]",https://en.wikipedia.org/wiki/Sarapatel
+18,Xacuti,West,Curry,Hot,,"[""Poppy Seed"",""Coriander"",""Cumin"",""Fennel"",""Clove"",""Cinnamon"",""Coconut""]",https://en.wikipedia.org/wiki/Xacuti
+19,Masala Dosa,South,Snack,Mild,https://upload.wikimedia.org/wikipedia/commons/2/2c/Masala_dosa.jpg,"[""Mustard Seed"",""Turmeric"",""Curry Leaf"",""Asafoetida""]",https://en.wikipedia.org/wiki/Masala_dosa
+20,Sambar,South,Curry,Medium,,"[""Mustard Seed"",""Curry Leaf"",""Turmeric"",""Tamarind"",""Red Chili Powder"",""Asafoetida""]",https://en.wikipedia.org/wiki/Sambar_(dish)
+21,Rasam,South,Soup,Hot,,"[""Black Pepper"",""Cumin"",""Mustard Seed"",""Curry Leaf"",""Tamarind"",""Garlic""]",https://en.wikipedia.org/wiki/Rasam
+22,Chettinad Chicken,South,Curry,Hot,,"[""Black Pepper"",""Fennel"",""Coriander"",""Cumin"",""Cinnamon"",""Clove"",""Star Anise""]",https://en.wikipedia.org/wiki/Chettinad_cuisine
+23,Idli Sambar,South,Snack,Mild,,"[""Mustard Seed"",""Curry Leaf"",""Turmeric"",""Tamarind""]",https://en.wikipedia.org/wiki/Idli
+24,Pongal (Ven Pongal),South,Rice,Mild,,"[""Black Pepper"",""Cumin"",""Ginger"",""Curry Leaf"",""Cashew""]",https://en.wikipedia.org/wiki/Pongal_(dish)
+25,Pani Puri,West,Snack,Medium,https://upload.wikimedia.org/wikipedia/commons/0/00/Pani_Puri.jpg,"[""Cumin"",""Black Salt"",""Chaat Masala"",""Tamarind"",""Green Chili""]",https://en.wikipedia.org/wiki/Pani_puri
+26,Bhel Puri,West,Snack,Mild,,"[""Chaat Masala"",""Tamarind"",""Coriander"",""Cumin"",""Green Chili""]",https://en.wikipedia.org/wiki/Bhelpuri
+27,Sev Puri,West,Snack,Mild,,"[""Chaat Masala"",""Cumin"",""Coriander"",""Tamarind""]",https://en.wikipedia.org/wiki/Sev_puri
+28,Vada Pav,West,Snack,Hot,,"[""Garlic"",""Green Chili"",""Coriander"",""Mustard Seed"",""Turmeric""]",https://en.wikipedia.org/wiki/Vada_pav
+29,Pav Bhaji,West,Curry,Medium,,"[""Cumin"",""Coriander"",""Red Chili Powder"",""Garam Masala"",""Butter""]",https://en.wikipedia.org/wiki/Pav_bhaji
+30,Dhokla,West,Snack,Mild,,"[""Mustard Seed"",""Curry Leaf"",""Green Chili"",""Sesame Seed""]",https://en.wikipedia.org/wiki/Dhokla
+31,Undhiyu,West,Curry,Mild,,"[""Coriander"",""Cumin"",""Sesame Seed"",""Coconut"",""Garlic"",""Ginger""]",https://en.wikipedia.org/wiki/Undhiyu
+32,Poha,West,Snack,Mild,,"[""Mustard Seed"",""Turmeric"",""Curry Leaf"",""Green Chili"",""Peanut""]",https://en.wikipedia.org/wiki/Poha
+33,Kadhi,West,Curry,Mild,,"[""Turmeric"",""Cumin"",""Mustard Seed"",""Fenugreek""]",https://en.wikipedia.org/wiki/Kadhi
+34,Aloo Paratha,North,Bread,Mild,,"[""Cumin"",""Coriander"",""Green Chili"",""Garam Masala""]",https://en.wikipedia.org/wiki/Aloo_paratha
+35,Naan,North,Bread,Mild,,"[""Nigella Seed"",""Sesame Seed"",""Garlic""]",https://en.wikipedia.org/wiki/Naan
+36,Bhatura (Chole Bhature),North,Bread,Medium,,"[""Cumin"",""Coriander"",""Dry Mango Powder"",""Red Chili Powder""]",https://en.wikipedia.org/wiki/Bhatura
+37,Puri (Chana Puri),North,Bread,Mild,,"[""Cumin"",""Carom Seed"",""Turmeric""]",https://en.wikipedia.org/wiki/Puri_(food)
+38,Matar Paneer,North,Curry,Mild,,"[""Cumin"",""Coriander"",""Turmeric"",""Garam Masala""]",https://en.wikipedia.org/wiki/Mattar_paneer
+39,Kadai Paneer,North,Curry,Medium,,"[""Coriander"",""Cumin"",""Red Chili Powder"",""Garam Masala""]",https://en.wikipedia.org/wiki/Kadai_paneer
+40,Shahi Paneer,North,Curry,Mild,,"[""Cardamom"",""Clove"",""Cinnamon"",""Garam Masala"",""Cream"",""Cashew""]",https://en.wikipedia.org/wiki/Shahi_paneer
+41,Baingan Bharta,North,Curry,Medium,,"[""Cumin"",""Coriander"",""Garam Masala"",""Garlic"",""Ginger""]",https://en.wikipedia.org/wiki/Baingan_bharta
+42,Bhindi Masala,North,Curry,Mild,,"[""Cumin"",""Coriander"",""Turmeric"",""Dry Mango Powder""]",https://en.wikipedia.org/wiki/Bhindi_masala
+43,Aloo Gobi,North,Curry,Mild,,"[""Cumin"",""Coriander"",""Turmeric"",""Garam Masala""]",https://en.wikipedia.org/wiki/Aloo_gobi
+44,Jeera Aloo,North,Curry,Mild,,"[""Cumin"",""Coriander"",""Green Chili"",""Lemon Juice""]",https://en.wikipedia.org/wiki/Jeera_aloo
+45,Kashmiri Dum Aloo,North,Curry,Medium,,"[""Kashmiri Chili"",""Fennel"",""Ginger"",""Garam Masala""]",https://en.wikipedia.org/wiki/Dum_aloo
+46,Macher Jhol,East,Curry,Medium,,"[""Turmeric"",""Mustard Seed"",""Nigella Seed"",""Green Chili""]",https://en.wikipedia.org/wiki/Machher_jhol
+47,Shorshe Ilish,East,Curry,Medium,,"[""Mustard Seed"",""Turmeric"",""Green Chili""]",https://en.wikipedia.org/wiki/Shorshe_ilish
+48,Chicken Kosha,East,Curry,Medium,,"[""Cumin"",""Coriander"",""Turmeric"",""Garam Masala"",""Bay"",""Cinnamon""]",https://en.wikipedia.org/wiki/Kosha_mangsho
+49,Litti Chokha,East,Snack,Mild,,"[""Cumin"",""Carom Seed"",""Nigella Seed"",""Mustard Oil""]",https://en.wikipedia.org/wiki/Litti_chokha
+50,Aloo Posto,East,Curry,Mild,,"[""Poppy Seed"",""Mustard Oil"",""Green Chili"",""Nigella Seed""]",https://en.wikipedia.org/wiki/Aloo_posto
+51,Prawn Malai Curry,East,Curry,Mild,,"[""Coconut"",""Turmeric"",""Cumin"",""Garam Masala""]",https://en.wikipedia.org/wiki/Chingri_malai_curry
+52,Pulao (Veg Pulao),North,Rice,Mild,,"[""Cumin"",""Bay"",""Cardamom"",""Clove"",""Cinnamon"",""Saffron""]",https://en.wikipedia.org/wiki/Pulao
+53,Keema Matar,North,Curry,Medium,,"[""Cumin"",""Coriander"",""Garam Masala"",""Green Chili""]",https://en.wikipedia.org/wiki/Keema
+54,Egg Curry,North,Curry,Medium,,"[""Cumin"",""Coriander"",""Turmeric"",""Garam Masala""]",https://en.wikipedia.org/wiki/Egg_curry
+55,Mysore Pak,South,Dessert,Mild,,"[""Ghee"",""Sugar"",""Chickpea Flour"",""Cardamom""]",https://en.wikipedia.org/wiki/Mysore_Pak
+56,Gulab Jamun,North,Dessert,Mild,,"[""Cardamom"",""Rose"",""Saffron""]",https://en.wikipedia.org/wiki/Gulab_jamun
+57,Jalebi,North,Dessert,Mild,,"[""Saffron"",""Cardamom""]",https://en.wikipedia.org/wiki/Jalebi
+58,Kheer,North,Dessert,Mild,,"[""Cardamom"",""Saffron"",""Nutmeg""]",https://en.wikipedia.org/wiki/Kheer
+59,Ras Malai,East,Dessert,Mild,,"[""Cardamom"",""Saffron""]",https://en.wikipedia.org/wiki/Ras_malai
+60,Idiyappam (String Hoppers),South,Snack,M
